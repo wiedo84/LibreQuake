@@ -36,7 +36,8 @@
             "gfx.wad",
             "demo1.dem",
             "demo2.dem",
-            "demo3.dem"
+            "demo3.dem",
+            "levelshots.pk3"
         ],
         "files_pak1": [],
         "files_unpacked": []
@@ -208,7 +209,7 @@
             "sound/plats/train2.wav",
             "sound/player/axhit1.wav",
             "sound/player/axhit2.wav",
-            "sound/player/death1.wav ",
+            "sound/player/death1.wav",
             "sound/player/death2.wav",
             "sound/player/death3.wav",
             "sound/player/death4.wav",
@@ -233,7 +234,7 @@
             "sound/player/pain5.wav",
             "sound/player/pain6.wav",
             "sound/player/plyrjmp8.wav",
-            "sound/player/slmbrn2.wav",
+            "sound/player/slimbrn2.wav",
             "sound/player/teledth1.wav",
             "sound/player/tornoff2.wav",
             "sound/player/udeath.wav",
@@ -292,6 +293,10 @@
             "sound/blob/hit1.wav",
             "sound/blob/land1.wav",
             "sound/blob/sight1.wav",
+            "sound/boss2/death.wav",
+            "sound/boss2/idle.wav",
+            "sound/boss2/pop2.wav",
+            "sound/boss2/sight.wav",
             "sound/enforcer/death1.wav",
             "sound/enforcer/enfire.wav",
             "sound/enforcer/enfstop.wav",
@@ -845,6 +850,8 @@
             "gfx/conback.lmp",
             "gfx/menumods.lmp",
             "gfx/menudemos.lmp",
+            "gfx/p_mods.lmp",
+            "gfx/mainmenu2.lmp",
             "gfx/levels.lmp",
             "gfx/demos.lmp",
             "gfx/pop.lmp"
